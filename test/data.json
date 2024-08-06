@@ -1,0 +1,1546 @@
+{
+    "items": [
+        {
+            "tags": [
+                "java",
+                "c++",
+                "performance",
+                "cpu-architecture",
+                "branch-prediction"
+            ],
+            "owner": [
+                {
+                    "account_id": 31692,
+                    "reputation": 501197,
+                    "user_id": 87234,
+                    "profile_image": "https://i.sstatic.net/FkjBe.png?s=256",
+                    "display_name": "GManNickG",
+                    "link": "https://stackoverflow.com/users/87234/gmannickg"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1894930,
+            "protected_date": 1399067470,
+            "accepted_answer_id": 11227902,
+            "answer_count": 25,
+            "score": 27301,
+            "last_activity_date": 1717223419,
+            "creation_date": 1340805096,
+            "last_edit_date": 1701123268,
+            "question_id": 11227809,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+            "title": "Why is processing a sorted array faster than processing an unsorted array?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-commit",
+                "undo"
+            ],
+            "owner": [
+                {
+                    "account_id": 32399,
+                    "reputation": 49249,
+                    "user_id": 89904,
+                    "profile_image": "https://www.gravatar.com/avatar/4fef65cead13e5d519f6bce3c501a537?s=256&d=identicon&r=PG",
+                    "display_name": "Hamza Yerlikaya",
+                    "link": "https://stackoverflow.com/users/89904/hamza-yerlikaya"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 14614880,
+            "protected_date": 1370840488,
+            "accepted_answer_id": 927386,
+            "answer_count": 108,
+            "community_owned_date": 1363428511,
+            "score": 26549,
+            "last_activity_date": 1719128115,
+            "creation_date": 1243620554,
+            "last_edit_date": 1694821040,
+            "question_id": 927358,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git",
+            "title": "How do I undo the most recent local commits in Git?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-branch",
+                "git-push",
+                "git-remote"
+            ],
+            "owner": [
+                {
+                    "account_id": 33990,
+                    "reputation": 460879,
+                    "user_id": 95592,
+                    "profile_image": "https://i.sstatic.net/uMfjc.jpg?s=256",
+                    "display_name": "Matthew Rankin",
+                    "link": "https://stackoverflow.com/users/95592/matthew-rankin"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 11777408,
+            "protected_date": 1358718496,
+            "accepted_answer_id": 2003515,
+            "answer_count": 41,
+            "community_owned_date": 1702663733,
+            "score": 20374,
+            "locked_date": 1702663372,
+            "last_activity_date": 1708727694,
+            "creation_date": 1262653935,
+            "last_edit_date": 1672782568,
+            "question_id": 2003505,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely",
+            "title": "How do I delete a Git branch locally and remotely?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-pull",
+                "git-fetch"
+            ],
+            "owner": [
+                {
+                    "account_id": 4105,
+                    "reputation": 285122,
+                    "user_id": 6068,
+                    "profile_image": "https://www.gravatar.com/avatar/931970b8dc51b72e05e3a12b88612d61?s=256&d=identicon&r=PG",
+                    "display_name": "Pablo Fernandez",
+                    "link": "https://stackoverflow.com/users/6068/pablo-fernandez"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3553445,
+            "protected_date": 1362879044,
+            "accepted_answer_id": 292359,
+            "answer_count": 37,
+            "score": 13865,
+            "last_activity_date": 1721300751,
+            "creation_date": 1226742669,
+            "last_edit_date": 1658169844,
+            "question_id": 292357,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch",
+            "title": "What is the difference between 'git pull' and 'git fetch'?"
+        },
+        {
+            "tags": [
+                "python",
+                "iterator",
+                "generator",
+                "yield"
+            ],
+            "owner": [
+                {
+                    "account_id": 9828,
+                    "reputation": 146068,
+                    "user_id": 18300,
+                    "profile_image": "https://i.sstatic.net/jcyI4.jpg?s=256",
+                    "display_name": "Alex. S.",
+                    "link": "https://stackoverflow.com/users/18300/alex-s"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3370891,
+            "protected_date": 1360547307,
+            "accepted_answer_id": 231855,
+            "answer_count": 52,
+            "score": 12955,
+            "last_activity_date": 1719456961,
+            "creation_date": 1224800471,
+            "last_edit_date": 1711253482,
+            "question_id": 231767,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python",
+            "title": "What does the \"yield\" keyword do in Python?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "arrays"
+            ],
+            "owner": [
+                {
+                    "account_id": 151241,
+                    "reputation": 132903,
+                    "user_id": 364969,
+                    "profile_image": "https://www.gravatar.com/avatar/79e7cefc9e7deb0e0bf422baa1a38a2c?s=256&d=identicon&r=PG",
+                    "display_name": "Walker",
+                    "link": "https://stackoverflow.com/users/364969/walker"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 12855882,
+            "protected_date": 1418673600,
+            "accepted_answer_id": 5767357,
+            "answer_count": 150,
+            "score": 12000,
+            "last_activity_date": 1722533935,
+            "creation_date": 1303597038,
+            "last_edit_date": 1675693432,
+            "question_id": 5767325,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array-in-javascript",
+            "title": "How can I remove a specific item from an array in JavaScript?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-branch"
+            ],
+            "owner": [
+                {
+                    "account_id": 135377,
+                    "reputation": 126193,
+                    "user_id": 338204,
+                    "profile_image": "https://www.gravatar.com/avatar/c145a12cd17d3b3ffff033681a694abe?s=256&d=identicon&r=PG",
+                    "display_name": "Forrest",
+                    "link": "https://stackoverflow.com/users/338204/forrest"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 5577681,
+            "protected_date": 1498428177,
+            "accepted_answer_id": 6591218,
+            "answer_count": 41,
+            "score": 11705,
+            "last_activity_date": 1720143316,
+            "creation_date": 1309922436,
+            "last_edit_date": 1694457192,
+            "question_id": 6591213,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/6591213/how-can-i-rename-a-local-git-branch",
+            "title": "How can I rename a local Git branch?"
+        },
+        {
+            "tags": [
+                "json",
+                "mime-types",
+                "content-type"
+            ],
+            "owner": [
+                {
+                    "account_id": 7412,
+                    "reputation": 238708,
+                    "user_id": 12870,
+                    "profile_image": "https://www.gravatar.com/avatar/f0af40756420859b5b63cbceb6d30505?s=256&d=identicon&r=PG",
+                    "display_name": "Oli",
+                    "link": "https://stackoverflow.com/users/12870/oli"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3903354,
+            "protected_date": 1435276338,
+            "accepted_answer_id": 477819,
+            "answer_count": 39,
+            "score": 11586,
+            "last_activity_date": 1704230930,
+            "creation_date": 1232897119,
+            "last_edit_date": 1661768573,
+            "question_id": 477816,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/477816/which-json-content-type-do-i-use",
+            "title": "Which JSON content type do I use?"
+        },
+        {
+            "tags": [
+                "git",
+                "undo",
+                "git-add"
+            ],
+            "owner": [
+                {
+                    "account_id": 7974,
+                    "reputation": 156928,
+                    "user_id": 14069,
+                    "profile_image": "https://www.gravatar.com/avatar/0c29cc6ee1c170810ee1fd36fa7c2f95?s=256&d=identicon&r=PG",
+                    "display_name": "oz10",
+                    "link": "https://stackoverflow.com/users/14069/oz10"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 5701650,
+            "protected_date": 1359649207,
+            "accepted_answer_id": 348234,
+            "answer_count": 38,
+            "score": 11403,
+            "last_activity_date": 1705331104,
+            "creation_date": 1228687066,
+            "last_edit_date": 1658714861,
+            "question_id": 348170,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit",
+            "title": "How do I undo 'git add' before commit?"
+        },
+        {
+            "tags": [
+                "c++",
+                "c",
+                "operators",
+                "code-formatting",
+                "standards-compliance"
+            ],
+            "owner": [
+                {
+                    "account_id": 31692,
+                    "reputation": 501197,
+                    "user_id": 87234,
+                    "profile_image": "https://i.sstatic.net/FkjBe.png?s=256",
+                    "display_name": "GManNickG",
+                    "link": "https://stackoverflow.com/users/87234/gmannickg"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1018437,
+            "protected_date": 1297320482,
+            "accepted_answer_id": 1642035,
+            "answer_count": 26,
+            "community_owned_date": 1262233068,
+            "score": 10172,
+            "last_activity_date": 1718984397,
+            "creation_date": 1256799465,
+            "last_edit_date": 1680185464,
+            "question_id": 1642028,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c",
+            "title": "What is the '-->' operator in C/C++?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "overwrite",
+                "git-pull",
+                "git-fetch"
+            ],
+            "owner": [
+                {
+                    "account_id": 34672,
+                    "reputation": 102543,
+                    "user_id": 98046,
+                    "profile_image": "https://i.sstatic.net/i1oB2.jpg?s=256",
+                    "display_name": "Jakub Troszok",
+                    "link": "https://stackoverflow.com/users/98046/jakub-troszok"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 8733519,
+            "protected_date": 1380552735,
+            "accepted_answer_id": 8888015,
+            "answer_count": 54,
+            "score": 9731,
+            "last_activity_date": 1715040074,
+            "creation_date": 1247583495,
+            "last_edit_date": 1658169728,
+            "question_id": 1125968,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files",
+            "title": "How do I force \"git pull\" to overwrite local files?"
+        },
+        {
+            "tags": [
+                "json",
+                "comments"
+            ],
+            "owner": [
+                {
+                    "account_id": 2896,
+                    "reputation": 108485,
+                    "user_id": 4105,
+                    "profile_image": "https://www.gravatar.com/avatar/b478ef877842b1da9cdead7848572372?s=256&d=identicon&r=PG",
+                    "display_name": "Michael Gundlach",
+                    "link": "https://stackoverflow.com/users/4105/michael-gundlach"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3646877,
+            "protected_date": 1504847411,
+            "accepted_answer_id": 244858,
+            "answer_count": 62,
+            "score": 9594,
+            "last_activity_date": 1717812827,
+            "creation_date": 1225226343,
+            "last_edit_date": 1656981358,
+            "question_id": 244777,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/244777/can-comments-be-used-in-json",
+            "title": "Can comments be used in JSON?"
+        },
+        {
+            "tags": [
+                "data-structures",
+                "memory-management",
+                "heap-memory",
+                "dynamic-memory-allocation",
+                "stack-memory"
+            ],
+            "owner": [
+                {
+                    "account_id": 7550,
+                    "reputation": 94583,
+                    "user_id": 13161,
+                    "profile_image": "https://www.gravatar.com/avatar/e3dcbde38b1f70c77b1db642f31a223d?s=256&d=identicon&r=PG",
+                    "display_name": "mattshane",
+                    "link": "https://stackoverflow.com/users/13161/mattshane"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1951461,
+            "protected_date": 1315942395,
+            "accepted_answer_id": 80113,
+            "answer_count": 30,
+            "score": 9453,
+            "last_activity_date": 1716959158,
+            "creation_date": 1221625086,
+            "last_edit_date": 1701429320,
+            "question_id": 79923,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap",
+            "title": "What and where are the stack and heap?"
+        },
+        {
+            "tags": [
+                "html",
+                "browser",
+                "background-color"
+            ],
+            "owner": [
+                {
+                    "account_id": 206969,
+                    "reputation": 88305,
+                    "user_id": 456584,
+                    "profile_image": "https://i.sstatic.net/uoYDJ.png?s=256",
+                    "display_name": "user456584",
+                    "link": "https://stackoverflow.com/users/456584/user456584"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 783297,
+            "protected_date": 1360160534,
+            "accepted_answer_id": 8333464,
+            "answer_count": 9,
+            "score": 8850,
+            "last_activity_date": 1706064012,
+            "creation_date": 1322607262,
+            "last_edit_date": 1654501047,
+            "question_id": 8318911,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
+            "title": "Why does HTML think \u201cchucknorris\u201d is a color?"
+        },
+        {
+            "tags": [
+                "git",
+                "git-checkout",
+                "remote-branch"
+            ],
+            "owner": [
+                {
+                    "account_id": 60038,
+                    "reputation": 90653,
+                    "user_id": 179467,
+                    "profile_image": "https://www.gravatar.com/avatar/e736f7016a80c3807e7cace569024ab8?s=256&d=identicon&r=PG",
+                    "display_name": "Juri Glass",
+                    "link": "https://stackoverflow.com/users/179467/juri-glass"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 8872883,
+            "protected_date": 1368094052,
+            "accepted_answer_id": 1783426,
+            "answer_count": 45,
+            "score": 8712,
+            "last_activity_date": 1722439644,
+            "creation_date": 1258986226,
+            "last_edit_date": 1658169950,
+            "question_id": 1783405,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch",
+            "title": "How do I check out a remote Git branch?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "jquery",
+                "dom",
+                "visibility",
+                "display"
+            ],
+            "owner": [
+                {
+                    "account_id": 11297,
+                    "reputation": 131393,
+                    "user_id": 21709,
+                    "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=256&d=identicon&r=PG",
+                    "display_name": "Philip Morton",
+                    "link": "https://stackoverflow.com/users/21709/philip-morton"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3212699,
+            "protected_date": 1578133711,
+            "accepted_answer_id": 178450,
+            "answer_count": 67,
+            "score": 8699,
+            "last_activity_date": 1720000442,
+            "creation_date": 1223384598,
+            "last_edit_date": 1702045063,
+            "question_id": 178325,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery",
+            "title": "How do I check if an element is hidden in jQuery?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "syntax",
+                "jslint",
+                "use-strict"
+            ],
+            "owner": [
+                {
+                    "account_id": 12984,
+                    "reputation": 97369,
+                    "user_id": 25847,
+                    "profile_image": "https://www.gravatar.com/avatar/34d142b034e7b194fc1708f3b20d9568?s=256&d=identicon&r=PG",
+                    "display_name": "Mark Rogers",
+                    "link": "https://stackoverflow.com/users/25847/mark-rogers"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1220576,
+            "protected_date": 1370840538,
+            "accepted_answer_id": 1335881,
+            "answer_count": 32,
+            "score": 8494,
+            "last_activity_date": 1722665633,
+            "creation_date": 1251303013,
+            "last_edit_date": 1657029561,
+            "question_id": 1335851,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it",
+            "title": "What does \"use strict\" do in JavaScript, and what is the reasoning behind it?"
+        },
+        {
+            "tags": [
+                "git",
+                "gitignore",
+                "git-rm"
+            ],
+            "owner": [
+                {
+                    "account_id": 9225,
+                    "reputation": 102411,
+                    "user_id": 16957,
+                    "profile_image": "https://www.gravatar.com/avatar/c5380b957ff8ce5cb14cf2282ffeb720?s=256&d=identicon&r=PG",
+                    "display_name": "Ivan",
+                    "link": "https://stackoverflow.com/users/16957/ivan"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2478671,
+            "protected_date": 1504805794,
+            "accepted_answer_id": 1274447,
+            "answer_count": 36,
+            "score": 8359,
+            "last_activity_date": 1721711125,
+            "creation_date": 1250191402,
+            "last_edit_date": 1658719875,
+            "question_id": 1274057,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore",
+            "title": "How do I make Git forget about a file that was tracked, but is now in .gitignore?"
+        },
+        {
+            "tags": [
+                "python",
+                "namespaces",
+                "program-entry-point",
+                "python-module",
+                "idioms"
+            ],
+            "owner": [
+                {
+                    "account_id": 21259,
+                    "reputation": 181665,
+                    "user_id": 51518,
+                    "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=256&d=identicon&r=PG",
+                    "display_name": "Devoted",
+                    "link": "https://stackoverflow.com/users/51518/devoted"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 4696881,
+            "protected_date": 1365246276,
+            "accepted_answer_id": 419185,
+            "answer_count": 47,
+            "score": 8269,
+            "last_activity_date": 1718575160,
+            "creation_date": 1231301460,
+            "last_edit_date": 1668391615,
+            "question_id": 419163,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/419163/what-does-if-name-main-do",
+            "title": "What does if __name__ == \"__main__\": do?"
+        },
+        {
+            "tags": [
+                "git",
+                "branch",
+                "git-branch"
+            ],
+            "owner": [
+                {
+                    "account_id": 3385,
+                    "reputation": 351460,
+                    "user_id": 4883,
+                    "profile_image": "https://www.gravatar.com/avatar/a92525f049e20db8f4ce3d62f3f0bb2b?s=256&d=identicon&r=PG",
+                    "display_name": "readonly",
+                    "link": "https://stackoverflow.com/users/4883/readonly"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3297205,
+            "accepted_answer_id": 64966,
+            "answer_count": 43,
+            "score": 8192,
+            "last_activity_date": 1720600316,
+            "creation_date": 1221383170,
+            "last_edit_date": 1659502707,
+            "question_id": 61212,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/61212/how-do-i-remove-local-untracked-files-from-the-current-git-working-tree",
+            "title": "How do I remove local (untracked) files from the current Git working tree?"
+        },
+        {
+            "tags": [
+                "python",
+                "operators",
+                "conditional-operator"
+            ],
+            "owner": [
+                {
+                    "account_id": 21259,
+                    "reputation": 181665,
+                    "user_id": 51518,
+                    "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=256&d=identicon&r=PG",
+                    "display_name": "Devoted",
+                    "link": "https://stackoverflow.com/users/51518/devoted"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2955687,
+            "protected_date": 1370841342,
+            "accepted_answer_id": 394814,
+            "answer_count": 31,
+            "score": 7963,
+            "last_activity_date": 1715008708,
+            "creation_date": 1230366738,
+            "last_edit_date": 1654483962,
+            "question_id": 394809,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator",
+            "title": "Does Python have a ternary conditional operator?"
+        },
+        {
+            "tags": [
+                "java",
+                "methods",
+                "parameter-passing",
+                "pass-by-reference",
+                "pass-by-value"
+            ],
+            "owner": [
+                {
+                    "account_id": 3050,
+                    "reputation": 4775,
+                    "user_id": 4315,
+                    "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG",
+                    "display_name": "user4315",
+                    "link": "https://stackoverflow.com/users/4315/user4315"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2739959,
+            "protected_date": 1308938923,
+            "answer_count": 91,
+            "community_owned_date": 1347646975,
+            "score": 7750,
+            "locked_date": 1701244089,
+            "last_activity_date": 1713732206,
+            "creation_date": 1220386469,
+            "last_edit_date": 1676406674,
+            "question_id": 40480,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value",
+            "title": "Is Java \"pass-by-reference\" or \"pass-by-value\"?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "jquery",
+                "http-redirect"
+            ],
+            "owner": [
+                {
+                    "account_id": 19254,
+                    "reputation": 102459,
+                    "user_id": 44984,
+                    "profile_image": "https://i.sstatic.net/7rqob.jpg?s=256",
+                    "display_name": "venkatachalam",
+                    "link": "https://stackoverflow.com/users/44984/venkatachalam"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 7941336,
+            "protected_date": 1447333882,
+            "accepted_answer_id": 506004,
+            "answer_count": 58,
+            "score": 7698,
+            "locked_date": 1522910705,
+            "last_activity_date": 1700646031,
+            "creation_date": 1233579256,
+            "last_edit_date": 1517920814,
+            "question_id": 503093,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage",
+            "title": "How do I redirect to another webpage?"
+        },
+        {
+            "tags": [
+                "git",
+                "git-commit",
+                "git-rewrite-history",
+                "git-amend"
+            ],
+            "owner": [
+                {
+                    "account_id": 4836,
+                    "reputation": 137674,
+                    "user_id": 7473,
+                    "profile_image": "https://www.gravatar.com/avatar/9218dd1115bc620ec1ea79fd0368da8e?s=256&d=identicon&r=PG",
+                    "display_name": "Laurie Young",
+                    "link": "https://stackoverflow.com/users/7473/laurie-young"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3885578,
+            "protected_date": 1364934455,
+            "accepted_answer_id": 179147,
+            "answer_count": 27,
+            "score": 7641,
+            "locked_date": 1434955517,
+            "last_activity_date": 1717517388,
+            "creation_date": 1223394287,
+            "last_edit_date": 1556792162,
+            "question_id": 179123,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/179123/how-to-modify-existing-unpushed-commit-messages",
+            "title": "How to modify existing, unpushed commit messages?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "function",
+                "methods",
+                "syntax"
+            ],
+            "owner": [
+                {
+                    "account_id": 15105,
+                    "reputation": 88810,
+                    "user_id": 31569,
+                    "profile_image": "https://www.gravatar.com/avatar/2d71a937d0e784ea99153ce46afb9fb1?s=256&d=identicon&r=PG",
+                    "display_name": "Richard Garside",
+                    "link": "https://stackoverflow.com/users/31569/richard-garside"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1224298,
+            "protected_date": 1370840753,
+            "accepted_answer_id": 336868,
+            "answer_count": 42,
+            "score": 7639,
+            "last_activity_date": 1713884901,
+            "creation_date": 1228303867,
+            "last_edit_date": 1676360675,
+            "question_id": 336859,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname",
+            "title": "var functionName = function() {} vs function functionName() {}"
+        },
+        {
+            "tags": [
+                "javascript",
+                "function",
+                "variables",
+                "scope",
+                "closures"
+            ],
+            "owner": [
+                {
+                    "account_id": 6018,
+                    "reputation": 591283,
+                    "user_id": 9951,
+                    "profile_image": "https://i.sstatic.net/CIFG8.png?s=256",
+                    "display_name": "Bite code",
+                    "link": "https://stackoverflow.com/users/9951/bite-code"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1626019,
+            "protected_date": 1316450131,
+            "accepted_answer_id": 111111,
+            "answer_count": 86,
+            "community_owned_date": 1370514175,
+            "score": 7615,
+            "locked_date": 1497372465,
+            "last_activity_date": 1689527077,
+            "creation_date": 1222006327,
+            "last_edit_date": 1491746117,
+            "question_id": 111102,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+            "title": "How do JavaScript closures work?"
+        },
+        {
+            "tags": [
+                "git",
+                "git-checkout",
+                "git-reset",
+                "git-revert"
+            ],
+            "owner": [
+                {
+                    "account_id": 38676,
+                    "reputation": 76320,
+                    "user_id": 111174,
+                    "profile_image": "https://www.gravatar.com/avatar/94f2f4d10581cebd4432a10f66fec19f?s=256&d=identicon&r=PG",
+                    "display_name": "Crazy Serb",
+                    "link": "https://stackoverflow.com/users/111174/crazy-serb"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 11349352,
+            "protected_date": 1506140086,
+            "accepted_answer_id": 4114122,
+            "answer_count": 41,
+            "score": 7609,
+            "locked_date": 1586499211,
+            "last_activity_date": 1709737415,
+            "creation_date": 1289062694,
+            "last_edit_date": 1576501372,
+            "question_id": 4114095,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit",
+            "title": "How do I revert a Git repository to a previous commit?"
+        },
+        {
+            "tags": [
+                "java",
+                "date",
+                "timezone"
+            ],
+            "owner": [
+                {
+                    "account_id": 137777,
+                    "reputation": 197088,
+                    "user_id": 342235,
+                    "profile_image": "https://www.gravatar.com/avatar/88e5a9eb011a73ab970ddc8cfb05ff85?s=256&d=identicon&r=PG",
+                    "display_name": "Freewind",
+                    "link": "https://stackoverflow.com/users/342235/freewind"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 806759,
+            "protected_date": 1433866025,
+            "accepted_answer_id": 6841479,
+            "answer_count": 11,
+            "score": 7570,
+            "last_activity_date": 1699707681,
+            "creation_date": 1311754558,
+            "last_edit_date": 1684606299,
+            "question_id": 6841333,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r",
+            "title": "Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?"
+        },
+        {
+            "tags": [
+                "c#",
+                ".net",
+                "string",
+                "types",
+                "alias"
+            ],
+            "owner": [
+                {
+                    "account_id": 444,
+                    "reputation": 25805,
+                    "user_id": 571,
+                    "profile_image": "https://www.gravatar.com/avatar/c1f0bb6c6d36ab5aba3fdacd1db03bf1?s=256&d=identicon&r=PG",
+                    "display_name": "Lance Fisher",
+                    "link": "https://stackoverflow.com/users/571/lance-fisher"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1319538,
+            "protected_date": 1335106652,
+            "accepted_answer_id": 7077,
+            "answer_count": 68,
+            "community_owned_date": 1349347041,
+            "score": 7555,
+            "last_activity_date": 1713209078,
+            "creation_date": 1218352682,
+            "last_edit_date": 1682717974,
+            "question_id": 7074,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/7074/what-is-the-difference-between-string-and-string-in-c",
+            "title": "What is the difference between String and string in C#?"
+        },
+        {
+            "tags": [
+                "linux",
+                "text",
+                "grep",
+                "directory",
+                "find"
+            ],
+            "owner": [
+                {
+                    "account_id": 923809,
+                    "reputation": 77009,
+                    "user_id": 954986,
+                    "profile_image": "https://i.sstatic.net/LT4wS.png?s=256",
+                    "display_name": "Nathan",
+                    "link": "https://stackoverflow.com/users/954986/nathan"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 11219721,
+            "protected_date": 1438889672,
+            "accepted_answer_id": 16957078,
+            "answer_count": 56,
+            "score": 7543,
+            "last_activity_date": 1711116968,
+            "creation_date": 1370506005,
+            "last_edit_date": 1711116968,
+            "question_id": 16956810,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/16956810/find-all-files-containing-a-specific-text-string-on-linux",
+            "title": "Find all files containing a specific text (string) on Linux?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "object",
+                "properties"
+            ],
+            "owner": [
+                {
+                    "account_id": 13814,
+                    "reputation": 97792,
+                    "user_id": 27929,
+                    "profile_image": "https://www.gravatar.com/avatar/8b141abc20af8ebe4667df467a73cc15?s=256&d=identicon&r=PG",
+                    "display_name": "johnstok",
+                    "link": "https://stackoverflow.com/users/27929/johnstok"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3256667,
+            "protected_date": 1319135227,
+            "accepted_answer_id": 208106,
+            "answer_count": 39,
+            "score": 7523,
+            "last_activity_date": 1713563552,
+            "creation_date": 1224154665,
+            "last_edit_date": 1661768721,
+            "question_id": 208105,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object",
+            "title": "How do I remove a property from a JavaScript object?"
+        },
+        {
+            "tags": [
+                "python",
+                "oop",
+                "metaclass",
+                "python-class",
+                "python-datamodel"
+            ],
+            "owner": [
+                {
+                    "account_id": 6018,
+                    "reputation": 591283,
+                    "user_id": 9951,
+                    "profile_image": "https://i.sstatic.net/CIFG8.png?s=256",
+                    "display_name": "Bite code",
+                    "link": "https://stackoverflow.com/users/9951/bite-code"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1185528,
+            "protected_date": 1350585760,
+            "accepted_answer_id": 100146,
+            "answer_count": 26,
+            "score": 7411,
+            "last_activity_date": 1716108326,
+            "creation_date": 1221804646,
+            "last_edit_date": 1675831759,
+            "question_id": 100003,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python",
+            "title": "What are metaclasses in Python?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "string",
+                "substring",
+                "string-matching"
+            ],
+            "owner": [
+                {
+                    "account_id": 44798,
+                    "reputation": 18824,
+                    "user_id": 131679,
+                    "profile_image": "https://www.gravatar.com/avatar/4cb7f78dca34d0e27931f743f3aa1f30?s=256&d=identicon&r=PG",
+                    "display_name": "gramm",
+                    "link": "https://stackoverflow.com/users/131679/gramm"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 8088927,
+            "protected_date": 1351859467,
+            "accepted_answer_id": 1789952,
+            "answer_count": 3,
+            "community_owned_date": 1388363490,
+            "score": 7406,
+            "locked_date": 1522910801,
+            "last_activity_date": 1666075663,
+            "creation_date": 1259067869,
+            "last_edit_date": 1554297428,
+            "question_id": 1789945,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript",
+            "title": "How to check whether a string contains a substring in JavaScript?"
+        },
+        {
+            "tags": [
+                "python",
+                "file",
+                "file-exists"
+            ],
+            "owner": [
+                {
+                    "account_id": 8617,
+                    "reputation": 79283,
+                    "user_id": 15616,
+                    "profile_image": "https://www.gravatar.com/avatar/1d502f7932af0a41d8ff6ab5d9cf3406?s=256&d=identicon&r=PG",
+                    "display_name": "spence91",
+                    "link": "https://stackoverflow.com/users/15616/spence91"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 5608122,
+            "protected_date": 1370841219,
+            "answer_count": 41,
+            "score": 7200,
+            "last_activity_date": 1719683884,
+            "creation_date": 1221656100,
+            "last_edit_date": 1616874145,
+            "question_id": 82831,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions",
+            "title": "How do I check whether a file exists without exceptions?"
+        },
+        {
+            "tags": [
+                "python",
+                "dictionary",
+                "merge"
+            ],
+            "owner": [
+                {
+                    "account_id": 2310,
+                    "reputation": 125291,
+                    "user_id": 3207,
+                    "profile_image": "https://www.gravatar.com/avatar/b1f36e554be0e1ae19f9a74d6ece9107?s=256&d=identicon&r=PG",
+                    "display_name": "Carl Meyer",
+                    "link": "https://stackoverflow.com/users/3207/carl-meyer"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3395885,
+            "protected_date": 1392127410,
+            "accepted_answer_id": 26853961,
+            "answer_count": 43,
+            "score": 6991,
+            "last_activity_date": 1712060962,
+            "creation_date": 1220341470,
+            "last_edit_date": 1676185398,
+            "question_id": 38987,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-in-python",
+            "title": "How do I merge two dictionaries in a single expression in Python?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "ajax",
+                "asynchronous"
+            ],
+            "owner": [
+                {
+                    "account_id": 76141,
+                    "reputation": 811062,
+                    "user_id": 218196,
+                    "profile_image": "https://i.sstatic.net/4P5DY.jpg?s=256",
+                    "display_name": "Felix Kling",
+                    "link": "https://stackoverflow.com/users/218196/felix-kling"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2131701,
+            "protected_date": 1554698603,
+            "accepted_answer_id": 14220323,
+            "answer_count": 42,
+            "score": 6710,
+            "last_activity_date": 1709757817,
+            "creation_date": 1357664774,
+            "last_edit_date": 1657142999,
+            "question_id": 14220321,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call",
+            "title": "How do I return the response from an asynchronous call?"
+        },
+        {
+            "tags": [
+                "git",
+                "git-branch",
+                "branching-and-merging"
+            ],
+            "owner": [
+                {
+                    "account_id": 11939,
+                    "reputation": 84713,
+                    "user_id": 1103052,
+                    "profile_image": "https://www.gravatar.com/avatar/393d9d6acd3ba4ed8ea921dd997d9144?s=256&d=identicon&r=PG",
+                    "display_name": "Mark A. Nicolosi",
+                    "link": "https://stackoverflow.com/users/1103052/mark-a-nicolosi"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1833241,
+            "protected_date": 1389659098,
+            "accepted_answer_id": 1628584,
+            "answer_count": 23,
+            "score": 6613,
+            "last_activity_date": 1709137397,
+            "creation_date": 1256612854,
+            "last_edit_date": 1705958365,
+            "question_id": 1628563,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git",
+            "title": "Move the most recent commit(s) to a new branch with Git"
+        },
+        {
+            "tags": [
+                "git",
+                "url",
+                "git-remote"
+            ],
+            "owner": [
+                {
+                    "account_id": 6018,
+                    "reputation": 591283,
+                    "user_id": 9951,
+                    "profile_image": "https://i.sstatic.net/CIFG8.png?s=256",
+                    "display_name": "Bite code",
+                    "link": "https://stackoverflow.com/users/9951/bite-code"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 4390365,
+            "accepted_answer_id": 2432799,
+            "answer_count": 34,
+            "score": 6475,
+            "last_activity_date": 1718186245,
+            "creation_date": 1268398127,
+            "last_edit_date": 1661369384,
+            "question_id": 2432764,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository",
+            "title": "How do I change the URI (URL) for a remote Git repository?"
+        },
+        {
+            "tags": [
+                "android",
+                "android-layout",
+                "user-interface",
+                "dimension",
+                "units-of-measurement"
+            ],
+            "owner": [
+                {
+                    "account_id": 84363,
+                    "reputation": 67953,
+                    "user_id": 235885,
+                    "profile_image": "https://www.gravatar.com/avatar/a246044d1113994fba38a67ce0205ed9?s=256&d=identicon&r=PG",
+                    "display_name": "capecrawler",
+                    "link": "https://stackoverflow.com/users/235885/capecrawler"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1504497,
+            "protected_date": 1303421057,
+            "accepted_answer_id": 2025541,
+            "answer_count": 34,
+            "score": 6393,
+            "last_activity_date": 1713710480,
+            "creation_date": 1262921026,
+            "last_edit_date": 1657518805,
+            "question_id": 2025282,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp",
+            "title": "What is the difference between px, dip, dp, and sp?"
+        },
+        {
+            "tags": [
+                "http",
+                "rest",
+                "post",
+                "put"
+            ],
+            "owner": [
+                {
+                    "account_id": 10253,
+                    "reputation": 75545,
+                    "user_id": 19268,
+                    "profile_image": "https://www.gravatar.com/avatar/145778821ba747dd30334c0703ebd57f?s=256&d=identicon&r=PG",
+                    "display_name": "alex",
+                    "link": "https://stackoverflow.com/users/19268/alex"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3465660,
+            "protected_date": 1306295084,
+            "accepted_answer_id": 630475,
+            "answer_count": 42,
+            "score": 6382,
+            "last_activity_date": 1720754205,
+            "creation_date": 1236695120,
+            "last_edit_date": 1675809577,
+            "question_id": 630453,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/630453/what-is-the-difference-between-post-and-put-in-http",
+            "title": "What is the difference between POST and PUT in HTTP?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "file",
+                "import",
+                "include"
+            ],
+            "owner": [
+                {
+                    "account_id": 188304,
+                    "reputation": 95352,
+                    "user_id": 426996,
+                    "profile_image": "https://www.gravatar.com/avatar/77f6618dd027eb4c6e4435d206dbd1c3?s=256&d=identicon&r=PG&f=y&so-version=2",
+                    "display_name": "Alec Smart",
+                    "link": "https://stackoverflow.com/users/426996/alec-smart"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 4425058,
+            "protected_date": 1370840821,
+            "accepted_answer_id": 950146,
+            "answer_count": 72,
+            "score": 6333,
+            "last_activity_date": 1718789352,
+            "creation_date": 1244116790,
+            "last_edit_date": 1658706427,
+            "question_id": 950087,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file",
+            "title": "How do I include a JavaScript file in another JavaScript file?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control"
+            ],
+            "owner": [
+                {
+                    "account_id": 3385,
+                    "reputation": 351460,
+                    "user_id": 4883,
+                    "profile_image": "https://www.gravatar.com/avatar/a92525f049e20db8f4ce3d62f3f0bb2b?s=256&d=identicon&r=PG",
+                    "display_name": "readonly",
+                    "link": "https://stackoverflow.com/users/4883/readonly"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 4215908,
+            "protected_date": 1401530271,
+            "accepted_answer_id": 52719,
+            "answer_count": 40,
+            "score": 6322,
+            "last_activity_date": 1677659340,
+            "creation_date": 1220988839,
+            "last_edit_date": 1658911366,
+            "question_id": 52704,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-git",
+            "title": "How do I discard unstaged changes in Git?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "scope",
+                "ecmascript-6",
+                "var",
+                "let"
+            ],
+            "owner": [
+                {
+                    "account_id": 7460,
+                    "reputation": 110257,
+                    "user_id": 12983,
+                    "profile_image": "https://www.gravatar.com/avatar/b33e8a75c925b361be8ff9568e35b26c?s=256&d=identicon&r=PG",
+                    "display_name": "TM.",
+                    "link": "https://stackoverflow.com/users/12983/tm"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2320315,
+            "protected_date": 1465851993,
+            "accepted_answer_id": 11444416,
+            "answer_count": 38,
+            "score": 6298,
+            "last_activity_date": 1698215249,
+            "creation_date": 1239998966,
+            "last_edit_date": 1698215249,
+            "question_id": 762011,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/762011/what-is-the-difference-between-let-and-var",
+            "title": "What is the difference between \"let\" and \"var\"?"
+        },
+        {
+            "tags": [
+                "bash",
+                "directory"
+            ],
+            "owner": [
+                {
+                    "account_id": 2109,
+                    "reputation": 76150,
+                    "user_id": 2908,
+                    "profile_image": "https://www.gravatar.com/avatar/30e3f436d5fb8e941126a0c2c2868f84?s=256&d=identicon&r=PG",
+                    "display_name": "Jiaaro",
+                    "link": "https://stackoverflow.com/users/2908/jiaaro"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 2643019,
+            "protected_date": 1370840795,
+            "accepted_answer_id": 246128,
+            "answer_count": 77,
+            "community_owned_date": 1300910776,
+            "score": 6287,
+            "last_activity_date": 1713943919,
+            "creation_date": 1221251996,
+            "last_edit_date": 1658706687,
+            "question_id": 59895,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/59895/how-do-i-get-the-directory-where-a-bash-script-is-located-from-within-the-script",
+            "title": "How do I get the directory where a Bash script is located from within the script itself?"
+        },
+        {
+            "tags": [
+                "python",
+                "shell",
+                "terminal",
+                "subprocess",
+                "command"
+            ],
+            "owner": [
+                {
+                    "account_id": 9288,
+                    "reputation": 63579,
+                    "user_id": 17085,
+                    "profile_image": "https://www.gravatar.com/avatar/d386a6f2f3dda7bcf7f1e11c2171946b?s=256&d=identicon&r=PG",
+                    "display_name": "freshWoWer",
+                    "link": "https://stackoverflow.com/users/17085/freshwower"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 4845026,
+            "protected_date": 1366143800,
+            "accepted_answer_id": 89243,
+            "answer_count": 66,
+            "score": 6177,
+            "last_activity_date": 1703656296,
+            "creation_date": 1221701730,
+            "last_edit_date": 1671066365,
+            "question_id": 89228,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/89228/how-do-i-execute-a-program-or-call-a-system-command",
+            "title": "How do I execute a program or call a system command?"
+        },
+        {
+            "tags": [
+                "css",
+                "cross-browser",
+                "highlight",
+                "textselection"
+            ],
+            "owner": {
+                "user_type": "does_not_exist",
+                "display_name": "anon"
+            },
+            "is_answered": true,
+            "view_count": 2742203,
+            "protected_date": 1335386570,
+            "answer_count": 45,
+            "score": 6108,
+            "last_activity_date": 1669830358,
+            "creation_date": 1241555358,
+            "last_edit_date": 1658706634,
+            "question_id": 826782,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting",
+            "title": "How to disable text selection highlighting"
+        },
+        {
+            "tags": [
+                "git",
+                "undo"
+            ],
+            "owner": [
+                {
+                    "account_id": 44033,
+                    "reputation": 160437,
+                    "user_id": 128983,
+                    "profile_image": "https://www.gravatar.com/avatar/da7a3c3efd21c067831e68c9c9c55636?s=256&d=identicon&r=PG",
+                    "display_name": "hap497",
+                    "link": "https://stackoverflow.com/users/128983/hap497"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 6539396,
+            "protected_date": 1599136757,
+            "accepted_answer_id": 1628334,
+            "answer_count": 27,
+            "score": 5782,
+            "last_activity_date": 1718210148,
+            "creation_date": 1256603240,
+            "last_edit_date": 1659477907,
+            "question_id": 1628088,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head",
+            "title": "Reset local repository branch to be just like remote repository HEAD"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-checkout"
+            ],
+            "owner": [
+                {
+                    "account_id": 2446,
+                    "reputation": 68101,
+                    "user_id": 3410,
+                    "profile_image": "https://i.sstatic.net/rOJJg.png?s=256",
+                    "display_name": "Hates_",
+                    "link": "https://stackoverflow.com/users/3410/hates"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 3073829,
+            "protected_date": 1512475709,
+            "accepted_answer_id": 215731,
+            "answer_count": 37,
+            "score": 5769,
+            "last_activity_date": 1709899431,
+            "creation_date": 1224372842,
+            "last_edit_date": 1693865595,
+            "question_id": 215718,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/215718/how-can-i-reset-or-revert-a-file-to-a-specific-revision",
+            "title": "How can I reset or revert a file to a specific revision?"
+        },
+        {
+            "tags": [
+                "http",
+                "url",
+                "browser"
+            ],
+            "owner": [
+                {
+                    "account_id": 1618,
+                    "reputation": 73977,
+                    "user_id": 2172,
+                    "profile_image": "https://www.gravatar.com/avatar/d45a34439ae17a079045a23df5131b91?s=256&d=identicon&r=PG",
+                    "display_name": "Sander Versluys",
+                    "link": "https://stackoverflow.com/users/2172/sander-versluys"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 1722903,
+            "protected_date": 1613704472,
+            "accepted_answer_id": 417184,
+            "answer_count": 18,
+            "score": 5759,
+            "last_activity_date": 1716910915,
+            "creation_date": 1231258470,
+            "last_edit_date": 1676828776,
+            "question_id": 417142,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers",
+            "title": "What is the maximum length of a URL in different browsers?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "arrays",
+                "loops",
+                "foreach",
+                "iteration"
+            ],
+            "owner": [
+                {
+                    "account_id": 1161462,
+                    "reputation": 59441,
+                    "user_id": 1140876,
+                    "profile_image": "https://www.gravatar.com/avatar/35c44645d7729e6828f494f5e20d5909?s=256&d=identicon&r=PG",
+                    "display_name": "Dante1986",
+                    "link": "https://stackoverflow.com/users/1140876/dante1986"
+                }
+            ],
+            "is_answered": true,
+            "view_count": 5359353,
+            "protected_date": 1396537395,
+            "accepted_answer_id": 9329476,
+            "answer_count": 41,
+            "score": 5727,
+            "last_activity_date": 1708095227,
+            "creation_date": 1329486708,
+            "last_edit_date": 1674303372,
+            "question_id": 9329446,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/9329446/loop-for-each-over-an-array-in-javascript",
+            "title": "Loop (for each) over an array in JavaScript"
+        }
+    ]
+}

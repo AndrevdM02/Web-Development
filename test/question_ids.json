@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "tags": [
+                "amazon-web-services",
+                "aws-glue",
+                "aws-step-functions"
+            ],
+            "is_answered": false,
+            "view_count": 3,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1722975798,
+            "creation_date": 1722975798,
+            "question_id": 78840901,
+            "link": "https://stackoverflow.com/questions/78840901/aws-step-function-choice-state-issue-glue-job-return-value-not-redirecting-as-e",
+            "title": "AWS Step Function Choice State Issue: Glue Job Return Value Not Redirecting as Expected"
+        }
+    ]
+}

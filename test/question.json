@@ -1,0 +1,285 @@
+{
+    "items": [
+        {
+            "tags": [
+                "java",
+                "c++",
+                "performance",
+                "cpu-architecture",
+                "branch-prediction"
+            ],
+            "is_answered": true,
+            "view_count": 1895013,
+            "accepted_answer_id": 11227902,
+            "answer_count": 25,
+            "score": 27301,
+            "last_activity_date": 1717223419,
+            "creation_date": 1340805096,
+            "last_edit_date": 1701123268,
+            "question_id": 11227809,
+            "link": "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+            "title": "Why is processing a sorted array faster than processing an unsorted array?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-commit",
+                "undo"
+            ],
+            "is_answered": true,
+            "view_count": 14619020,
+            "accepted_answer_id": 927386,
+            "answer_count": 108,
+            "score": 26550,
+            "last_activity_date": 1719128115,
+            "creation_date": 1243620554,
+            "last_edit_date": 1694821040,
+            "question_id": 927358,
+            "link": "https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git",
+            "title": "How do I undo the most recent local commits in Git?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-branch",
+                "git-push",
+                "git-remote"
+            ],
+            "is_answered": true,
+            "view_count": 11779925,
+            "accepted_answer_id": 2003515,
+            "answer_count": 41,
+            "score": 20374,
+            "last_activity_date": 1708727694,
+            "creation_date": 1262653935,
+            "last_edit_date": 1672782568,
+            "question_id": 2003505,
+            "link": "https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely",
+            "title": "How do I delete a Git branch locally and remotely?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-pull",
+                "git-fetch"
+            ],
+            "is_answered": true,
+            "view_count": 3553843,
+            "accepted_answer_id": 292359,
+            "answer_count": 37,
+            "score": 13866,
+            "last_activity_date": 1721300751,
+            "creation_date": 1226742669,
+            "last_edit_date": 1658169844,
+            "question_id": 292357,
+            "link": "https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch",
+            "title": "What is the difference between 'git pull' and 'git fetch'?"
+        },
+        {
+            "tags": [
+                "python",
+                "iterator",
+                "generator",
+                "yield"
+            ],
+            "is_answered": true,
+            "view_count": 3371096,
+            "accepted_answer_id": 231855,
+            "answer_count": 52,
+            "score": 12956,
+            "last_activity_date": 1719456961,
+            "creation_date": 1224800471,
+            "last_edit_date": 1711253482,
+            "question_id": 231767,
+            "link": "https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python",
+            "title": "What does the \"yield\" keyword do in Python?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "arrays"
+            ],
+            "is_answered": true,
+            "view_count": 12857536,
+            "accepted_answer_id": 5767357,
+            "answer_count": 150,
+            "score": 12000,
+            "last_activity_date": 1722533935,
+            "creation_date": 1303597038,
+            "last_edit_date": 1675693432,
+            "question_id": 5767325,
+            "link": "https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array-in-javascript",
+            "title": "How can I remove a specific item from an array in JavaScript?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "git-branch"
+            ],
+            "is_answered": true,
+            "view_count": 5579050,
+            "accepted_answer_id": 6591218,
+            "answer_count": 41,
+            "score": 11706,
+            "last_activity_date": 1720143316,
+            "creation_date": 1309922436,
+            "last_edit_date": 1694457192,
+            "question_id": 6591213,
+            "link": "https://stackoverflow.com/questions/6591213/how-can-i-rename-a-local-git-branch",
+            "title": "How can I rename a local Git branch?"
+        },
+        {
+            "tags": [
+                "json",
+                "mime-types",
+                "content-type"
+            ],
+            "is_answered": true,
+            "view_count": 3903588,
+            "accepted_answer_id": 477819,
+            "answer_count": 39,
+            "score": 11586,
+            "last_activity_date": 1704230930,
+            "creation_date": 1232897119,
+            "last_edit_date": 1661768573,
+            "question_id": 477816,
+            "link": "https://stackoverflow.com/questions/477816/which-json-content-type-do-i-use",
+            "title": "Which JSON content type do I use?"
+        },
+        {
+            "tags": [
+                "git",
+                "undo",
+                "git-add"
+            ],
+            "is_answered": true,
+            "view_count": 5702899,
+            "accepted_answer_id": 348234,
+            "answer_count": 38,
+            "score": 11403,
+            "last_activity_date": 1705331104,
+            "creation_date": 1228687066,
+            "last_edit_date": 1658714861,
+            "question_id": 348170,
+            "link": "https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit",
+            "title": "How do I undo 'git add' before commit?"
+        },
+        {
+            "tags": [
+                "c++",
+                "c",
+                "operators",
+                "code-formatting",
+                "standards-compliance"
+            ],
+            "is_answered": true,
+            "view_count": 1018493,
+            "accepted_answer_id": 1642035,
+            "answer_count": 26,
+            "score": 10172,
+            "last_activity_date": 1718984397,
+            "creation_date": 1256799465,
+            "last_edit_date": 1680185464,
+            "question_id": 1642028,
+            "link": "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c",
+            "title": "What is the '-->' operator in C/C++?"
+        },
+        {
+            "tags": [
+                "git",
+                "version-control",
+                "overwrite",
+                "git-pull",
+                "git-fetch"
+            ],
+            "is_answered": true,
+            "view_count": 8735056,
+            "accepted_answer_id": 8888015,
+            "answer_count": 54,
+            "score": 9732,
+            "last_activity_date": 1715040074,
+            "creation_date": 1247583495,
+            "last_edit_date": 1658169728,
+            "question_id": 1125968,
+            "link": "https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files",
+            "title": "How do I force \"git pull\" to overwrite local files?"
+        },
+        {
+            "tags": [
+                "json",
+                "comments"
+            ],
+            "is_answered": true,
+            "view_count": 3647330,
+            "accepted_answer_id": 244858,
+            "answer_count": 62,
+            "score": 9595,
+            "last_activity_date": 1717812827,
+            "creation_date": 1225226343,
+            "last_edit_date": 1656981358,
+            "question_id": 244777,
+            "link": "https://stackoverflow.com/questions/244777/can-comments-be-used-in-json",
+            "title": "Can comments be used in JSON?"
+        },
+        {
+            "tags": [
+                "data-structures",
+                "memory-management",
+                "heap-memory",
+                "dynamic-memory-allocation",
+                "stack-memory"
+            ],
+            "is_answered": true,
+            "view_count": 1951580,
+            "accepted_answer_id": 80113,
+            "answer_count": 30,
+            "score": 9453,
+            "last_activity_date": 1716959158,
+            "creation_date": 1221625086,
+            "last_edit_date": 1701429320,
+            "question_id": 79923,
+            "link": "https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap",
+            "title": "What and where are the stack and heap?"
+        },
+        {
+            "tags": [
+                "html",
+                "browser",
+                "background-color"
+            ],
+            "is_answered": true,
+            "view_count": 783329,
+            "accepted_answer_id": 8333464,
+            "answer_count": 9,
+            "score": 8850,
+            "last_activity_date": 1706064012,
+            "creation_date": 1322607262,
+            "last_edit_date": 1654501047,
+            "question_id": 8318911,
+            "link": "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
+            "title": "Why does HTML think \u201cchucknorris\u201d is a color?"
+        },
+        {
+            "tags": [
+                "git",
+                "git-checkout",
+                "remote-branch"
+            ],
+            "is_answered": true,
+            "view_count": 8874674,
+            "accepted_answer_id": 1783426,
+            "answer_count": 45,
+            "score": 8712,
+            "last_activity_date": 1722439644,
+            "creation_date": 1258986226,
+            "last_edit_date": 1658169950,
+            "question_id": 1783405,
+            "link": "https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch",
+            "title": "How do I check out a remote Git branch?"
+        }
+    ]
+}
