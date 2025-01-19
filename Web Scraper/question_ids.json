@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "tags": [
+                "azure",
+                "terraform"
+            ],
+            "owner": {
+                "account_id": 15933842,
+                "reputation": 9,
+                "user_id": 11497507,
+                "user_type": "registered",
+                "profile_image": "https://lh4.googleusercontent.com/-iyRSY7gpKeY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3red7nxm6-_fKPSE-Q2Ca1Ooygyj0g/mo/photo.jpg?sz=256",
+                "display_name": "harshavardhan pilli",
+                "link": "https://stackoverflow.com/users/11497507/harshavardhan-pilli"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724355968,
+            "creation_date": 1724355328,
+            "question_id": 78903244,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78903244/difference-between-terraform-resources-azuread-application-azuread-applicat",
+            "title": "Difference between terraform resources \"azuread_application\" & \"azuread_application_registration\""
+        }
+    ],
+    "has_more": false
+}

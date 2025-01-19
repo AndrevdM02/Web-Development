@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`main complicated 1`] = `
+"<hr>
+<h2>title:</h2>
+<style>
+  hr {
+    margin: 50px 0 40px;
+  }
+</style>
+<hr>
+<h2>Get Started</h2>
+<p><code>npm install picidae-theme-haier -d</code></p>
+<pre><code class=\\"language-javascript\\">// picidae.config.js
+module.exports = {
+  theme: 'picidae-theme-haier'
+}
+</code></pre>
+<hr>
+<h2>Feature</h2>
+<div class=\\"row\\">
+  <div class=\\"col-sm-4\\">
+    <h3 class=\\"align-center\\">
+      🌎 Internationality
+    </h3>
+    <p>
+      Haier supports internationality. <br/>
+      You can write your document splited by English & Chinese. <br/>
+      You can disable the feature when you just want write English or Chinese Document. <br/>
+    </p>
+  </div>
+  
+  <div class=\\"col-sm-4\\">
+<markdown>
+<h3>🍫 Customized</h3>
+<h4>Style</h4>
+<p>Supporting configuration of your style that you want.</p>
+<markdown>
+<h3>🍫 Customized</h3>
+<h5>Header</h5>
+</markdown>
+
+<markdown>
+<h2>Supporting configuration of your document that you want.</h2>
+</markdown>
+
+</markdown>
+
+</p>
+</div>
+</div>
+"
+`;

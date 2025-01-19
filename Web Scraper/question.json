@@ -1,0 +1,814 @@
+{
+    "items": [
+        {
+            "tags": [
+                "ios",
+                "swift",
+                "swift3",
+                "uinavigationitem",
+                "resignfirstresponder"
+            ],
+            "owner": {
+                "account_id": 6247188,
+                "reputation": 2432,
+                "user_id": 4858605,
+                "user_type": "registered",
+                "profile_image": "https://lh6.googleusercontent.com/-aCnR_jnjPD8/AAAAAAAAAAI/AAAAAAAABaQ/y2yX1H035Vg/photo.jpg?sz=256",
+                "display_name": "toing_toing",
+                "link": "https://stackoverflow.com/users/4858605/toing-toing"
+            },
+            "is_answered": true,
+            "view_count": 3112,
+            "accepted_answer_id": 43650606,
+            "answer_count": 5,
+            "score": 2,
+            "last_activity_date": 1724439831,
+            "creation_date": 1493275123,
+            "question_id": 43650315,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/43650315/how-to-hide-keyboard-in-swift-on-press-of-navigationbar",
+            "title": "How to hide keyboard in swift on press of navigationBar"
+        },
+        {
+            "tags": [
+                "java",
+                "amazon-s3",
+                "pre-signed-url",
+                "custom-headers"
+            ],
+            "owner": {
+                "account_id": 1085200,
+                "reputation": 1214,
+                "user_id": 1081060,
+                "user_type": "registered",
+                "profile_image": "https://i.sstatic.net/SdIOZ.jpg?s=256",
+                "display_name": "Jebil",
+                "link": "https://stackoverflow.com/users/1081060/jebil"
+            },
+            "is_answered": true,
+            "view_count": 12062,
+            "answer_count": 2,
+            "score": 2,
+            "last_activity_date": 1724439811,
+            "creation_date": 1549444531,
+            "question_id": 54550066,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/54550066/s3-presigned-url-mandatory-custom-request-headers",
+            "title": "s3 presigned url mandatory custom request headers"
+        },
+        {
+            "tags": [
+                "ios",
+                "objective-c",
+                "iphone",
+                "cocoa-touch",
+                "mapkit"
+            ],
+            "owner": {
+                "account_id": 37324,
+                "reputation": 11973,
+                "user_id": 106658,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/225fe93f0f7ccd42c4cc559fb0919046?s=256&d=identicon&r=PG",
+                "display_name": "jbrennan",
+                "link": "https://stackoverflow.com/users/106658/jbrennan"
+            },
+            "is_answered": true,
+            "view_count": 82744,
+            "accepted_answer_id": 22572264,
+            "answer_count": 25,
+            "score": 97,
+            "last_activity_date": 1724439810,
+            "creation_date": 1251308112,
+            "last_edit_date": 1671404339,
+            "question_id": 1336370,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/1336370/positioning-mkmapview-to-show-multiple-annotations-at-once",
+            "title": "Positioning MKMapView to show multiple annotations at once"
+        },
+        {
+            "tags": [
+                "bayesian",
+                "mcmc"
+            ],
+            "owner": {
+                "account_id": 26181956,
+                "reputation": 57,
+                "user_id": 19865198,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/8dd18f373288c5473e9437e75037107f?s=256&d=identicon&r=PG",
+                "display_name": "LifeisGood94",
+                "link": "https://stackoverflow.com/users/19865198/lifeisgood94"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439809,
+            "creation_date": 1724429640,
+            "last_edit_date": 1724439809,
+            "question_id": 78906738,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78906738/how-to-write-the-jump-distribution-of-the-hastings-ratio-when-calculation-of-par",
+            "title": "How to Write the Jump Distribution of the Hastings Ratio when Calculation of Parameter is Hierarchical?"
+        },
+        {
+            "tags": [
+                "gstreamer"
+            ],
+            "owner": {
+                "account_id": 1301084,
+                "reputation": 1316,
+                "user_id": 1250984,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/521df281c0905011eddc34b42df02bff?s=256&d=identicon&r=PG",
+                "display_name": "Maxthecat",
+                "link": "https://stackoverflow.com/users/1250984/maxthecat"
+            },
+            "is_answered": false,
+            "view_count": 5,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439796,
+            "creation_date": 1724434371,
+            "question_id": 78907002,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907002/how-can-i-create-gstreamer-caps-with-parenthesis-in-name",
+            "title": "How can I create gstreamer caps with parenthesis in name?"
+        },
+        {
+            "tags": [
+                "postgresql",
+                "database-replication",
+                "high-availability",
+                "patroni"
+            ],
+            "owner": {
+                "account_id": 1125601,
+                "reputation": 393,
+                "user_id": 1112954,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/fba4d747a8844d0954ec3af00ef14969?s=256&d=identicon&r=PG",
+                "display_name": "Ganesh",
+                "link": "https://stackoverflow.com/users/1112954/ganesh"
+            },
+            "is_answered": false,
+            "view_count": 3,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439787,
+            "creation_date": 1724439787,
+            "question_id": 78907271,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907271/postgres-hot-standby-stuck-starting-waiting-for-contrrecord-despite-wal-file-bei",
+            "title": "Postgres Hot standby stuck starting waiting for contrrecord despite wal file being present"
+        },
+        {
+            "tags": [
+                "javascript",
+                "arrays",
+                "lodash"
+            ],
+            "owner": {
+                "account_id": 14401798,
+                "reputation": 127,
+                "user_id": 10403184,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b8242746d7d02ee36c2e0d997ca6d0a6?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "avdotion",
+                "link": "https://stackoverflow.com/users/10403184/avdotion"
+            },
+            "is_answered": true,
+            "view_count": 1054,
+            "answer_count": 3,
+            "score": 0,
+            "last_activity_date": 1724439777,
+            "creation_date": 1563965538,
+            "last_edit_date": 1563966673,
+            "question_id": 57181210,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/57181210/how-to-avoid-the-castarray-function",
+            "title": "How to avoid the castArray function?"
+        },
+        {
+            "tags": [
+                "python",
+                "random",
+                "shuffle"
+            ],
+            "owner": {
+                "account_id": 35085706,
+                "reputation": 1,
+                "user_id": 26969334,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/6c437f995d694cade05981c794b71861?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Ratik",
+                "link": "https://stackoverflow.com/users/26969334/ratik"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439774,
+            "creation_date": 1724438773,
+            "last_edit_date": 1724439774,
+            "question_id": 78907236,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907236/native-js-object-has-no-attribute-shuffle",
+            "title": "'<native JS>' object has no attribute 'shuffle'"
+        },
+        {
+            "tags": [
+                "java",
+                "jsf",
+                "primefaces"
+            ],
+            "owner": {
+                "account_id": 25297861,
+                "reputation": 17,
+                "user_id": 19122683,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/8ea6c33dea2027130972252b158b9608?s=256&d=identicon&r=PG",
+                "display_name": "Blrackerd",
+                "link": "https://stackoverflow.com/users/19122683/blrackerd"
+            },
+            "is_answered": false,
+            "view_count": 8,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439750,
+            "creation_date": 1724439292,
+            "last_edit_date": 1724439750,
+            "question_id": 78907257,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907257/contextmenu-of-primefaces-datatable-only-update-the-first-time-the-next-times-n",
+            "title": "ContextMenu of Primefaces Datatable only update the first time, the next times not work"
+        },
+        {
+            "tags": [
+                "python",
+                "cs50",
+                "bayesian-networks",
+                "pomegranate"
+            ],
+            "owner": {
+                "account_id": 28907218,
+                "reputation": 11,
+                "user_id": 22141016,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AAcHTteCeWVgrqV2_9kaBHNzzkqNYoV_Ck9bh6SFkZINi3QWiwA=k-s256",
+                "display_name": "Ritwik Mishra",
+                "link": "https://stackoverflow.com/users/22141016/ritwik-mishra"
+            },
+            "is_answered": true,
+            "view_count": 1846,
+            "answer_count": 3,
+            "score": 0,
+            "last_activity_date": 1724439725,
+            "creation_date": 1687888816,
+            "last_edit_date": 1695852471,
+            "question_id": 76567542,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/76567542/can-someone-correct-the-code-it-says-nameerror-name-node-is-not-defined",
+            "title": "Can someone correct the code ? It says NameError: name 'Node' is not defined"
+        },
+        {
+            "tags": [
+                "javascript",
+                "google-chrome",
+                "http-redirect"
+            ],
+            "owner": {
+                "account_id": 1117546,
+                "reputation": 101,
+                "user_id": 1106554,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/947b0542c977b89310008f5ea6294685?s=256&d=identicon&r=PG",
+                "display_name": "Chris",
+                "link": "https://stackoverflow.com/users/1106554/chris"
+            },
+            "is_answered": true,
+            "view_count": 11070,
+            "answer_count": 8,
+            "score": 10,
+            "last_activity_date": 1724439724,
+            "creation_date": 1324321981,
+            "last_edit_date": 1324333094,
+            "question_id": 8566222,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/8566222/javascript-window-redirect-doesnt-work-in-chrome-canceled-status",
+            "title": "javascript window redirect doesn't work in chrome ((canceled) - status )"
+        },
+        {
+            "tags": [
+                "java",
+                "jpa",
+                "spring-data"
+            ],
+            "owner": {
+                "account_id": 920347,
+                "reputation": 10644,
+                "user_id": 952135,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/21ec01f95d402ce91b66139bb128be6d?s=256&d=identicon&r=PG",
+                "display_name": "Oliv",
+                "link": "https://stackoverflow.com/users/952135/oliv"
+            },
+            "is_answered": false,
+            "view_count": 16,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439716,
+            "creation_date": 1724433724,
+            "question_id": 78906966,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78906966/why-is-there-a-distinction-between-predicate-and-expressionboolean-in-jpa",
+            "title": "Why is there a distinction between `Predicate` and `Expression<Boolean>` in JPA Criteria API?"
+        },
+        {
+            "tags": [
+                "visual-studio"
+            ],
+            "owner": {
+                "account_id": 34998578,
+                "reputation": 1,
+                "user_id": 26911396,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/9c024b1a4fcb36f7f0c80f935c72cf8e?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Seshua",
+                "link": "https://stackoverflow.com/users/26911396/seshua"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439712,
+            "creation_date": 1724374815,
+            "last_edit_date": 1724439712,
+            "question_id": 78903992,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78903992/unity-x-visual-studio-community-2022",
+            "title": "Unity x Visual Studio Community 2022"
+        },
+        {
+            "tags": [
+                "javascript",
+                "facebook",
+                "sdk",
+                "token"
+            ],
+            "owner": {
+                "account_id": 973298,
+                "reputation": 1019,
+                "user_id": 995349,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/eeb90da400e78dff00350de43d65ce3b?s=256&d=identicon&r=PG",
+                "display_name": "Kevin",
+                "link": "https://stackoverflow.com/users/995349/kevin"
+            },
+            "is_answered": false,
+            "view_count": 9944,
+            "answer_count": 3,
+            "score": 1,
+            "last_activity_date": 1724439705,
+            "creation_date": 1334953931,
+            "question_id": 10253174,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/10253174/fb-api-post-to-wall-access-token",
+            "title": "FB.api post to wall : access token?"
+        },
+        {
+            "tags": [
+                "android",
+                "camera",
+                "frame-rate",
+                "camera2"
+            ],
+            "owner": {
+                "account_id": 2629600,
+                "reputation": 193,
+                "user_id": 2275919,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/42fa5742e9e3cbc32bdac79eb3f4c6ac?s=256&d=identicon&r=PG",
+                "display_name": "scrpn",
+                "link": "https://stackoverflow.com/users/2275919/scrpn"
+            },
+            "is_answered": false,
+            "view_count": 18742,
+            "answer_count": 1,
+            "score": 16,
+            "last_activity_date": 1724439705,
+            "creation_date": 1456501929,
+            "last_edit_date": 1495542296,
+            "question_id": 35656138,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/35656138/access-high-fps-camera-on-android",
+            "title": "Access high fps camera on Android"
+        },
+        {
+            "tags": [
+                "php",
+                "laravel",
+                "slider"
+            ],
+            "owner": {
+                "account_id": 11590408,
+                "reputation": 7008,
+                "user_id": 8490993,
+                "user_type": "registered",
+                "profile_image": "https://i.sstatic.net/DMTUr.png?s=256",
+                "display_name": "mafortis",
+                "link": "https://stackoverflow.com/users/8490993/mafortis"
+            },
+            "is_answered": false,
+            "view_count": 10939,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1724439705,
+            "creation_date": 1509676906,
+            "last_edit_date": 1592644375,
+            "question_id": 47087655,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/47087655/how-to-add-dynamic-slider-in-laravel",
+            "title": "How to add dynamic slider in laravel"
+        },
+        {
+            "tags": [
+                "php",
+                "windows",
+                "apache",
+                "xampp",
+                "windows-10"
+            ],
+            "owner": {
+                "user_type": "does_not_exist",
+                "display_name": "user7917001"
+            },
+            "is_answered": false,
+            "view_count": 13296,
+            "answer_count": 2,
+            "score": 3,
+            "last_activity_date": 1724439705,
+            "creation_date": 1493092963,
+            "last_edit_date": 1500920572,
+            "question_id": 43601363,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/43601363/access-forbidden-windows-10-php-xampp",
+            "title": "Access forbidden! Windows 10 PHP XAMPP"
+        },
+        {
+            "tags": [
+                "mysql",
+                "sql",
+                "pivot",
+                "pivot-table"
+            ],
+            "owner": {
+                "account_id": 46148,
+                "reputation": 5073,
+                "user_id": 136262,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/7ed96ef9180f781d94194b5cb0f37b25?s=256&d=identicon&r=PG",
+                "display_name": "peku",
+                "link": "https://stackoverflow.com/users/136262/peku"
+            },
+            "is_answered": true,
+            "view_count": 484662,
+            "protected_date": 1444035636,
+            "accepted_answer_id": 7675121,
+            "answer_count": 10,
+            "score": 388,
+            "last_activity_date": 1709192076,
+            "creation_date": 1317907214,
+            "last_edit_date": 1709192076,
+            "question_id": 7674786,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/7674786/how-can-i-return-pivot-table-output-in-mysql",
+            "title": "How can I return pivot table output in MySQL?"
+        },
+        {
+            "tags": [
+                "c++",
+                "winapi",
+                "ntdll",
+                "process-injection"
+            ],
+            "owner": {
+                "account_id": 35086532,
+                "reputation": 1,
+                "user_id": 26969943,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/c8524d4358c843fb5eedcf7202d6bda6?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "user26969943",
+                "link": "https://stackoverflow.com/users/26969943/user26969943"
+            },
+            "is_answered": false,
+            "view_count": 6,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439689,
+            "creation_date": 1724439689,
+            "question_id": 78907267,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907267/ntsetcontextthread-issue-0xc0000024",
+            "title": "NtSetContextThread issue 0xC0000024"
+        },
+        {
+            "tags": [
+                "node.js",
+                "homebrew",
+                "nvm"
+            ],
+            "owner": {
+                "account_id": 17084247,
+                "reputation": 415,
+                "user_id": 12361964,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/cf000b5fd728e319f633c7a6121c2444?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Madison Leopold",
+                "link": "https://stackoverflow.com/users/12361964/madison-leopold"
+            },
+            "is_answered": true,
+            "view_count": 7309,
+            "accepted_answer_id": 59850793,
+            "answer_count": 2,
+            "score": 5,
+            "last_activity_date": 1724439667,
+            "creation_date": 1579641990,
+            "last_edit_date": 1579650334,
+            "question_id": 59849446,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/59849446/nvm-and-node-keep-going-missing-upon-closing-terminal",
+            "title": "Nvm and Node keep going missing upon closing terminal"
+        },
+        {
+            "tags": [
+                "python",
+                "python-polars"
+            ],
+            "owner": {
+                "account_id": 21289179,
+                "reputation": 599,
+                "user_id": 20591261,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GihXW0TSZEFOqoXIUVuaiLTwptOiR0yYgXOOkJ7oA=k-s256",
+                "display_name": "Simon",
+                "link": "https://stackoverflow.com/users/20591261/simon"
+            },
+            "is_answered": false,
+            "view_count": 4,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439647,
+            "creation_date": 1724439647,
+            "question_id": 78907265,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907265/polars-keep-the-biggets-value-using-2-categories",
+            "title": "Polars keep the biggets value using 2 categories"
+        },
+        {
+            "tags": [
+                "python",
+                "linux",
+                "matplotlib",
+                "pickle"
+            ],
+            "owner": {
+                "account_id": 13450902,
+                "reputation": 3,
+                "user_id": 19353652,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/316b4437884c6d43b667f08426c43e4b?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "L.knaeble",
+                "link": "https://stackoverflow.com/users/19353652/l-knaeble"
+            },
+            "is_answered": false,
+            "view_count": 5,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439622,
+            "creation_date": 1724439622,
+            "question_id": 78907264,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907264/loading-matplot-from-pkl-data",
+            "title": "loading matplot from pkl data"
+        },
+        {
+            "tags": [
+                "kotlin",
+                "jpa"
+            ],
+            "owner": {
+                "account_id": 8077664,
+                "reputation": 456,
+                "user_id": 6088097,
+                "user_type": "registered",
+                "profile_image": "https://lh5.googleusercontent.com/-PQQ9QaQ0nN4/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbDJ1yTBPnYfuyx7t1oxvOh_XIHmgw/mo/photo.jpg?sz=256",
+                "display_name": "Storms786",
+                "link": "https://stackoverflow.com/users/6088097/storms786"
+            },
+            "is_answered": true,
+            "view_count": 13246,
+            "accepted_answer_id": 70035187,
+            "answer_count": 7,
+            "score": 7,
+            "last_activity_date": 1724439608,
+            "creation_date": 1603005748,
+            "last_edit_date": 1603017443,
+            "question_id": 64410753,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/64410753/jpa-error-in-kotlin-class-student-should-have-public-protected-no-arg-con",
+            "title": "JPA error in kotlin : Class 'Student' should have [public, protected] no-arg constructor"
+        },
+        {
+            "tags": [
+                "c#"
+            ],
+            "owner": {
+                "account_id": 25359258,
+                "reputation": 11,
+                "user_id": 19174839,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/3c6343f93311c7b996756fb6ab6204ed?s=256&d=identicon&r=PG",
+                "display_name": "Northern Scrub",
+                "link": "https://stackoverflow.com/users/19174839/northern-scrub"
+            },
+            "is_answered": true,
+            "view_count": 33,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439594,
+            "creation_date": 1724437295,
+            "question_id": 78907166,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78907166/is-there-a-better-way-to-iterate-over-nested-tables-here",
+            "title": "Is there a better way to iterate over nested tables here?"
+        },
+        {
+            "tags": [
+                "dax",
+                "powerbi-desktop"
+            ],
+            "owner": {
+                "account_id": 32858557,
+                "reputation": 1,
+                "user_id": 25531652,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/4b560760bd45be4386d6a24bab18791a?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "joseph crujeiras",
+                "link": "https://stackoverflow.com/users/25531652/joseph-crujeiras"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439555,
+            "creation_date": 1724421230,
+            "last_edit_date": 1724427842,
+            "question_id": 78906257,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78906257/detecting-elapsed-time-between-entries-with-dax",
+            "title": "Detecting elapsed time between entries with DAX"
+        },
+        {
+            "tags": [
+                "javascript",
+                "reactjs",
+                "typescript",
+                "next.js"
+            ],
+            "owner": {
+                "account_id": 27279373,
+                "reputation": 319,
+                "user_id": 20799503,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/5f9a71d9f7a6cb9fdcdc8274e0d74c43?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "irwnd2",
+                "link": "https://stackoverflow.com/users/20799503/irwnd2"
+            },
+            "is_answered": true,
+            "view_count": 46993,
+            "accepted_answer_id": 74973275,
+            "answer_count": 10,
+            "score": 19,
+            "last_activity_date": 1724439538,
+            "creation_date": 1671259399,
+            "last_edit_date": 1671261527,
+            "question_id": 74832268,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/74832268/typeerror-cannot-read-properties-of-undefined-reading-call-on-next-js",
+            "title": "TypeError: Cannot read properties of undefined (reading 'call') on Next.js"
+        },
+        {
+            "tags": [
+                "svelte",
+                "debouncing",
+                "svelte-5"
+            ],
+            "owner": {
+                "account_id": 13969208,
+                "reputation": 3863,
+                "user_id": 10088259,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b2b51eb5f9c162c33081b2cc0e00a276?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Fred Hors",
+                "link": "https://stackoverflow.com/users/10088259/fred-hors"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1724439500,
+            "creation_date": 1724431365,
+            "last_edit_date": 1724433333,
+            "question_id": 78906849,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78906849/is-there-a-way-to-debounce-a-svelte-5-derived-value",
+            "title": "Is there a way to debounce a Svelte 5 $derived value?"
+        },
+        {
+            "tags": [
+                "c++",
+                "typedef",
+                "using",
+                "alias-declaration"
+            ],
+            "owner": {
+                "account_id": 7108813,
+                "reputation": 6105,
+                "user_id": 5437543,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/9f9d3ea2a2dd46993bf02c6ad0a3b6b2?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "StoneThrow",
+                "link": "https://stackoverflow.com/users/5437543/stonethrow"
+            },
+            "is_answered": true,
+            "view_count": 42,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1724439486,
+            "creation_date": 1724433968,
+            "last_edit_date": 1724439486,
+            "question_id": 78906978,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78906978/does-the-guidance-against-using-in-headers-apply-to-type-aliases",
+            "title": "Does the guidance against using in headers apply to type aliases?"
+        },
+        {
+            "tags": [
+                "android",
+                "gradle",
+                "junit",
+                "build"
+            ],
+            "owner": {
+                "account_id": 13423374,
+                "reputation": 305,
+                "user_id": 9685483,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b05ca3740221296bf807d828b079adea?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "O.Ufuk",
+                "link": "https://stackoverflow.com/users/9685483/o-ufuk"
+            },
+            "is_answered": true,
+            "view_count": 42275,
+            "accepted_answer_id": 54574604,
+            "answer_count": 15,
+            "score": 27,
+            "last_activity_date": 1724439420,
+            "creation_date": 1538393255,
+            "last_edit_date": 1538393450,
+            "question_id": 52590101,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/52590101/could-not-find-method-testimplementation-for-arguments-junitjunit4-12",
+            "title": "Could not find method testImplementation() for arguments [junit:junit:4.12]"
+        },
+        {
+            "tags": [
+                "typescript",
+                "typescript-generics"
+            ],
+            "owner": {
+                "account_id": 110674,
+                "reputation": 1431,
+                "user_id": 292779,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/f9f0f5d13dbdda25bed194a52cf01da9?s=256&d=identicon&r=PG",
+                "display_name": "Fraga",
+                "link": "https://stackoverflow.com/users/292779/fraga"
+            },
+            "is_answered": false,
+            "view_count": 31,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1724439375,
+            "creation_date": 1724375039,
+            "last_edit_date": 1724439375,
+            "question_id": 78903996,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/78903996/invert-keyof-t-type",
+            "title": "Invert keyOf T type"
+        }
+    ],
+    "has_more": true
+}
